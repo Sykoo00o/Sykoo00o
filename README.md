@@ -26,6 +26,7 @@ At Clyyde we're building **Starium**: AI that turns local-language radio, news a
 
 - 🛰️ **Building:** Starium, AI early warning and threat intelligence
 - 🎥 **Recent work:** real-time video analytics with YOLO11 + ByteTrack
+- 🤖 **Skilled in:** machine learning, LangChain and agentic AI systems
 - 🗣️ **Exploring:** speech-to-text and NLP for Hausa and other Nigerian languages
 - 🌍 **Care about:** AI that works in African conditions: low-cost hardware, noisy data, local languages, and honest evaluation
 
@@ -37,6 +38,9 @@ At Clyyde we're building **Starium**: AI that turns local-language radio, news a
   <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,fastapi,docker,git,github,linux,vscode&perline=11" alt="Skills"/>
 </p>
 <p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-0f2027?style=flat-square&logo=scikitlearn&logoColor=F7931E" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/Agentic%20AI-%F0%9F%A4%96-6E40C9?style=flat-square" alt="Agentic AI"/>
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
   <img src="https://img.shields.io/badge/Ultralytics%20YOLO-111F68?style=flat-square&logo=ultralytics&logoColor=white" alt="Ultralytics YOLO"/>
   <img src="https://img.shields.io/badge/ByteTrack-tracking-2c5364?style=flat-square" alt="ByteTrack"/>
@@ -69,18 +73,6 @@ Zone-based **loitering alerts** for fixed-camera video. It detects and tracks pe
 </td>
 </tr>
 </table>
-
----
-
-## 📚 Learning
-
-<details>
-<summary><b>DeepLearning.AI coursework (completed · certificates pending)</b>, click to expand</summary>
-<br/>
-
-I've completed DeepLearning.AI coursework in machine learning and deep learning. Certificates and the full course list will be added here once issued.
-
-</details>
 
 ---
 
