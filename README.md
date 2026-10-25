@@ -50,6 +50,44 @@ At Clyyde we're building **Starium**: AI that turns local-language radio, news a
 
 ---
 
+## 🧠 Skills
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**🤖 LLMs & agentic AI**
+- Building agentic AI systems: tool use, multi-step reasoning, workflows
+- LangChain: chains, retrieval (RAG), agents
+- Prompt design and LLM evaluation
+
+**📈 Machine learning**
+- Supervised and unsupervised learning, feature engineering
+- Model training, validation and error analysis
+- scikit-learn, PyTorch, TensorFlow
+
+</td>
+<td valign="top" width="50%">
+
+**👁️ Computer vision**
+- Object detection with Ultralytics YOLO11
+- Multi-object tracking with ByteTrack
+- Video analytics and zone/event logic with OpenCV
+
+**🗣️ Language & speech AI**
+- NLP with Hugging Face Transformers
+- Speech-to-text (Whisper) for low-resource languages
+- Hausa and Nigerian-language AI
+
+**⚙️ Engineering**
+- Python, FastAPI, Docker, Git, Linux
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🚀 Featured project
 
 <table>
